@@ -2,8 +2,8 @@
 List of resources which are useful when building HTML based email templates.
 
 ### Tutorials
-- [An Introduction To Building And Sending HTML Email For Web Developers](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developeSDfasdfrs)
-- [Dirty CSS Hacks for Responsive Emails](https://www.shopify.com/partners/blog/dirty-css-hacks-for-responsive-emails)
+- [An Introduction To Building And Sending HTML Email For Web Developers - Smashing Magazine](https://www.smashingmagazine.com/2017/01/introduction-building-sending-html-email-for-web-developers/)
+- [Dirty CSS Hacks for Responsive Emails - Shopify](https://www.shopify.com/partners/blog/dirty-css-hacks-for-responsive-emails)
 
 ### Test Tools
 - [New Email Test - PutsMail](https://putsmail.com/tests/new)
